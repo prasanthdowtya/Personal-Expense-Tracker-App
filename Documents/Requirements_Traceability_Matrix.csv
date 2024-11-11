@@ -1,0 +1,11 @@
+Requirement ID,Requirement Description,Associated Deliverable,Test Case ID,Status
+RQ-001,Track daily expenses,Expense Entry Form,"TC-001, TC-002",Completed
+RQ-002,Categorize transactions,Category Dropdown in Expense Form,TC-003,Completed
+RQ-003,Generate monthly spending reports,"Expense Summary, Monthly Report","TC-004, TC-005",In Progress
+RQ-004,Visualize monthly spending patterns,ExpenseChart Component,"TC-006, TC-007",Completed
+RQ-005,Ensure data persistence across sessions,LocalStorage Integration,TC-008,Completed
+RQ-006,Provide filtering options for expense categories,Category Filter in Expense List,TC-009,In Progress
+RQ-007,Display average and total expenses,Expense Summary Calculation,TC-010,Completed
+RQ-008,Allow users to delete and modify expenses,Expense Entry Editing and Deletion Feature,"TC-011, TC-012",Completed
+RQ-009,Predictive analytics for spending patterns,Predictive Models,TC-013,Planned
+RQ-010,Support multi-device data access (future upgrade),Cloud Storage Integration,TC-014,Planned
